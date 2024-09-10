@@ -6,3 +6,6 @@
   https://www.youtube.com/watch?v=3_JZxhC9IQI
   
 # Soil Sensor Modbus RS485 Green Color
+
+https://www.youtube.com/watch?app=desktop&v=rhbG55hIrtw
+
